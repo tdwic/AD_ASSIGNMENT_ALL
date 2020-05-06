@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  height:100%;
+  justify-content: center;
+}
+
+.App h1{
+  color: white;
+}
+
+
+

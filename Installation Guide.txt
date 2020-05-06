@@ -1,0 +1,46 @@
+Installation Guide for the Project
+
+Installation of REST API
+
+1. Deploy the Express REST API in IntelliJ or WebStrom
+2. Type :- npm install 
+3. Type :- npm start
+(Make sure to Run the REST API Before Running any other application)
+
+Installation of Web Application 
+
+1. Deploye the React JS Web Application In IntelliJ or WebStrom 
+2. Type :- npm install
+3. Type :- npm start 
+
+
+Installation of RMI Server 
+
+1.Import ServerApplication Project on eclipse IDE
+
+2.Configure the Java-JSON.jar build path
+	2a.Right click on the project Select Build Path > Configure Build Path.
+	2b.Select Add External Jars.
+	2c.Locate the external Libraries Folder which contains java-JSON.jar.
+	2d.Apply changes
+
+3.To Compile Java Application, Select and Run Serever.java and SensorAdmin.java files separately.(This will compile all the files and create CLASS files in Bin Folder).
+
+4.Right Click on the project and select ShowIn >  System Explorer(This will naviagate to the project folder).
+
+5.Find the Bin folder and open the bin folder from Command Line
+
+6.Type "rmic SensorImpl" and press Enter
+
+7.Type in same cmd "start rmiregistry" and press enter(rmiregistry.exe will run).
+
+8.Go back to Eclipse and Run Server.java File ("server will start").
+
+9.Run SensorDetails.Java file to Run the User Interface
+
+
+
+
+
+
+

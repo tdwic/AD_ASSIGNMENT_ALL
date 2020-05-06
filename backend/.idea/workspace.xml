@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3b963ad-a3b9-4d06-bbc4-0636e8a2742e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1asyia8XDrJXFH7rXYxGCCVx0bl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../emailTest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\backend" />
+      <recent name="F:\backend\Route" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3b963ad-a3b9-4d06-bbc4-0636e8a2742e" name="Default Changelist" comment="" />
+      <created>1587538723807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587538723807</updated>
+      <workItem from="1587538725562" duration="1838000" />
+      <workItem from="1587561687340" duration="11356000" />
+      <workItem from="1587799911958" duration="1197000" />
+      <workItem from="1587839722718" duration="48000" />
+      <workItem from="1587910014841" duration="1869000" />
+      <workItem from="1587912382520" duration="651000" />
+      <workItem from="1587915065281" duration="2108000" />
+      <workItem from="1587927374517" duration="1459000" />
+      <workItem from="1588340060870" duration="6000" />
+      <workItem from="1588435316306" duration="169000" />
+      <workItem from="1588435634177" duration="3309000" />
+      <workItem from="1588516812595" duration="86000" />
+      <workItem from="1588613053384" duration="433000" />
+      <workItem from="1588620492562" duration="1884000" />
+      <workItem from="1588626508219" duration="1808000" />
+      <workItem from="1588652924082" duration="3356000" />
+      <workItem from="1588668502663" duration="3783000" />
+      <workItem from="1588686306593" duration="10750000" />
+      <workItem from="1588720515508" duration="1820000" />
+      <workItem from="1588723592557" duration="13093000" />
+      <workItem from="1588752790380" duration="12557000" />
+      <workItem from="1588773571729" duration="153000" />
+      <workItem from="1588775665851" duration="2262000" />
+      <workItem from="1588782939760" duration="1771000" />
+      <workItem from="1588785896715" duration="3778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1587540611864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587540611864" />
+    <state x="457" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588740990115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588740990115" />
+    <state x="804" y="119" key="FileChooserDialogImpl" timestamp="1588762533841">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="804" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588762533841" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588723593424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588723593424" />
+    <state x="65" y="88" key="new project wizard" timestamp="1588761614758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="88" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588761614758" />
+  </component>
+</project>
